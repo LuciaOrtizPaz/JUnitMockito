@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df2ea0e1-392a-4759-9528-9b58ae847080" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JUnit-Mockito/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JUnit-Mockito/email/EmailCliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JUnit-Mockito/email/NotificadorEmail.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JUnit-Mockito/email/SmtpEmailCliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JUnit-Mockito/test/NotificadorEmailTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2j4te8oKNQwiUYsFK1I3tThaZ6d" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/user/OneDrive/Desktop/JUnit-Mockito/JUnit-Mockito",
+    "last_opened_file_path": "C:/Users/user/OneDrive/Desktop/JUnit-Mockito",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -55,10 +60,24 @@
       <option name="presentableId" value="Default" />
       <updated>1720658269643</updated>
       <workItem from="1720658270703" duration="715000" />
+      <workItem from="1720659447783" duration="65000" />
+      <workItem from="1720659543398" duration="27000" />
+      <workItem from="1720659673396" duration="162000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
